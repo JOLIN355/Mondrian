@@ -1,13 +1,13 @@
 .container {
     display: grid;
-    grid-template-rows: auto auto;
+    grid-template-rows: 13% auto;
     min-height: 100vh;
     background-color: #000000;
 }
 
 .header {
-    background-color: #333;
-    color: white;
+    background-color: #bedb17;
+    color: black;
     width: 100%;
     text-align: center;
     font-size: 2rem;
